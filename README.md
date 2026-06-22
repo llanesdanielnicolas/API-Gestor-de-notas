@@ -1,7 +1,5 @@
 # API-Gestor-de-notas
 
-Una descripción breve y concisa de qué hace este proyecto.
-
 ## Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalado lo siguiente en tu equipo:
